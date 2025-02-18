@@ -31,9 +31,9 @@
 ---
 
 ### 📫 Como me encontrar?
-📧 **Email:** [seu-email@email.com]  
+📧 **Email:** [henriquevilas764@gmail.com]  
 🌎 **Portfólio:** [seu-portfolio.com](https://seu-portfolio.com)  
-💼 **LinkedIn:** [linkedin.com/in/seu-perfil](https://linkedin.com/in/seu-perfil)  
+💼 **LinkedIn:** [linkedin.com/in/seu-perfil](https://www.linkedin.com/in/carlos-henriquevilas77/)  
 
 ---
 
