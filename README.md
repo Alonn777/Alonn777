@@ -1,7 +1,7 @@
 <h1 align="center">👋 Olá, sou o Carlos Henrique!</h1>
 
 <p align="center">
-  🚀 <strong>Desenvolvedor Front-end | Apaixonado por Tecnologia e IA</strong>
+  🚀 <strong>Desenvolvedor de Software</strong>
 </p>
 
 ---
